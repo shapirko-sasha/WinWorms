@@ -1,0 +1,62 @@
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).exe.config
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).exe
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).pdb
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EASendMail.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\SimpleCrypto.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.xml
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.StartForm.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Properties.Resources.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.AdminPanelForm.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.ChangeAccSettingForm.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.LoginForm.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.SingInForm.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.GenerateResource.cache
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.CopyComplete
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).exe
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).pdb
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Migrations.ADDUsers.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.GameField.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Migrations.ADDUserScore.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.ChoosePhoto.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.ChooseMusic.resources
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\AxInterop.WMPLib.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Interop.WMPLib.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\AxInterop.WMPLib.dll
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.ResolveComReference.cache
+D:\Working place\Programming(step + other)\ADO.NET\Coursework\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).exe.config
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).exe
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Coursework(WinForm).pdb
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EASendMail.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\SimpleCrypto.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.xml
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csprojAssemblyReference.cache
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.ResolveComReference.cache
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Migrations.ADDUsers.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Migrations.ADDUserScore.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.StartForm.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.Properties.Resources.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.AdminPanelForm.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.ChangeAccSettingForm.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.ChooseMusic.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.ChoosePhoto.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.WinForms.GameField.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.LoginForm.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework_WinForm_.SingInForm.resources
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.GenerateResource.cache
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.CoreCompileInputs.cache
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).csproj.CopyComplete
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).exe
+C:\Users\Ноутбук\Desktop\Coursework final\Coursework(WinForm)\Coursework(WinForm)\obj\Debug\Coursework(WinForm).pdb
